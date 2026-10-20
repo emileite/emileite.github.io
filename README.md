@@ -1,9 +1,11 @@
 # emileite.github.io
 
-GitHub Pages root site for Turbo IMAP.
+GitHub Pages root site for the GitHub profile of
+[emileite](https://github.com/emileite).
 
-- `index.html` is the root landing page. It shows live repository data (stars, forks,
-  open issues/PRs, latest release, license and last push) from the GitHub API.
+- `index.html` is a profile landing page. It shows live public data from the GitHub API:
+  avatar, bio, followers, public repositories, total stars, a repository list and the
+  latest Turbo IMAP release. Turbo IMAP is presented as the featured project.
 - `privacy.html` and `privacy.pt.html` contain the English and Portuguese privacy and
   cookies policies.
 - `ads.txt` exposes the AdSense seller record at
